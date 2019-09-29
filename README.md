@@ -7,3 +7,8 @@ Gilgamesh è un software python che basandosi su alcuni dei più famosi siti di 
 1. Si installa python
 2. Si lancia il comando `pip install -r requirments.txt`
 3. Si seguono le istruzioni a video
+
+### Screenshots
+
+![GitHub Logo](/screenshots/1(1).png)
+Format: ![Alt Text](url)

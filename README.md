@@ -10,4 +10,4 @@ Gilgamesh è un software python che basandosi su alcuni dei più famosi siti di 
 
 ### Screenshots
 
-![GitHub Logo](/screenshots/1(1).jpg)
+![GitHub Logo](./screenshots/1(1).jpg)

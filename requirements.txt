@@ -1,6 +1,6 @@
 pyfiglet==0.8.post1
 termcolor==1.1.0
-requests==2.22.0
+requests==2.31.0
 colorama==0.4.1
 beautifulsoup4==4.8.0
 mysql_connector_repackaged==0.3.1
